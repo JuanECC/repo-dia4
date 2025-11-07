@@ -4,6 +4,10 @@
 ## Título H2
 **negritas** y *cursivas*
 - listas
+- hola como estas
+- uno
+- dos 
+- tres
 
 1. listas numeradas
 `código en línea` 
