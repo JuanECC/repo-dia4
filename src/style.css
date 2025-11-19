@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+.start{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+    color: blue;
+}
+img{
+    width: 200px;
+    border-radius: 15%;
+}
+.mi-foto{
+    border: 5px solid darkblue;
+    width: 150;
+    border-radius: 50%;
+}
