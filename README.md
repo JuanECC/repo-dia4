@@ -17,3 +17,5 @@ ls -la
 
 
 Hola mundo cruel 2
+
+Este es un repositorio para que los alimnis se basen para hacer suy primer blog con html y css
